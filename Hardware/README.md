@@ -1,0 +1,1 @@
+Implementing a counter that will drive either a 3,4,8 or 16 bit shift left register every certain amount of clock cycles. Playing around to learn more about shift register and basics of VHDL design and simulation. Inspired by https://nandland.com/lfsr-linear-feedback-shift-register/ and https://www.youtube.com/watch?v=enn5GasrUW8&t=1s 
